@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e1b455-3bdf-40e1-bbe3-a3e746193069" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xwsm9TjpZfi5S42MGqAnHUfYyi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/es/formacion/cip" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JUnit.OperacionesTest.multiplicaSimpleTest">
+    <configuration name="OperacionesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.formacion.cip.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.formacion.cip.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="es.formacion.cip.interfaces.OperacionesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionesTest.dividirDecimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.formacion.cip.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.formacion.cip.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="es.formacion.cip.interfaces.OperacionesTest" />
+      <option name="METHOD_NAME" value="dividirDecimalTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionesTest.multiplicaSimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.formacion.cip.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.formacion.cip.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="es.formacion.cip.interfaces.OperacionesTest" />
+      <option name="METHOD_NAME" value="multiplicaSimpleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionesTest.restaSimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.formacion.cip.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.formacion.cip.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="es.formacion.cip.interfaces.OperacionesTest" />
+      <option name="METHOD_NAME" value="restaSimpleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionesTest.sumaSimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.formacion.cip.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.formacion.cip.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="es.formacion.cip.interfaces.OperacionesTest" />
+      <option name="METHOD_NAME" value="sumaSimpleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OperacionesTest.multiplicaSimpleTest" />
+        <item itemvalue="JUnit.OperacionesTest" />
+        <item itemvalue="JUnit.OperacionesTest.dividirDecimalTest" />
+        <item itemvalue="JUnit.OperacionesTest.restaSimpleTest" />
+        <item itemvalue="JUnit.OperacionesTest.sumaSimpleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e1b455-3bdf-40e1-bbe3-a3e746193069" name="Default Changelist" comment="" />
+      <created>1581968647136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581968647136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1828" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582499117051">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582499117051" />
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom" timestamp="1582500270605">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582500270605" />
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="180" key="GridCell.Tab.0.center" timestamp="1582500270605">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582500270605" />
+    <state width="1877" height="427" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="180" key="GridCell.Tab.0.left" timestamp="1582500270605">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582500270605" />
+    <state width="1877" height="427" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="180" key="GridCell.Tab.0.right" timestamp="1582500270605">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582500270605" />
+    <state width="1877" height="427" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom" timestamp="1581975042374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="427" key="GridCell.Tab.1.center" timestamp="1581975042374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="427" key="GridCell.Tab.1.left" timestamp="1581975042374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state width="1877" height="427" key="GridCell.Tab.1.right" timestamp="1581975042374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581975042374" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1581970158526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581970158526" />
+    <state x="776" y="299" key="chooseDestDirectoryDialog" timestamp="1581970431606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="299" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581970431606" />
+    <state x="-1254" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1582143884085">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1254" y="149" key="refactoring.ChangeSignatureDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582143884085" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Calculadora$OperacionesTest_sumaSimpleTest.ic" NAME="OperacionesTest.sumaSimpleTest Coverage Results" MODIFIED="1582235704810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.formacion.cip.interfaces.*</FILTER>
+    </SUITE>
+  </component>
+</project>
