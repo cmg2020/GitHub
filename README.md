@@ -20,4 +20,4 @@ _Abre tu IDE y carga mi proyecto... En unos minutos tu disco duro estara formate
 
 **ESPERO QUE TE GUSTE Y APRENDAS A NO METERTE CON GENTE MAYOR...**
 
-_(P.D.: No se admiten reclamaciones por fallos del ordenador o robos de numeros de tarjetas de credito... Ni lloricas!!!_
+_(P.D.: No se admiten reclamaciones por fallos del ordenador o robos de numeros de tarjetas de credito... Ni lloricas!!!)_
