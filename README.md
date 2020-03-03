@@ -6,7 +6,7 @@
 
 _Puedes descargar mi calculadora para someterla a tus pruebas locas e intentar reventarla por todos lados... Hay gente que lo ha conseguido!!!_
 
-Mira **Deployment** para conocer como descargarla.
+Mira **DESCARGAS** para conocer como descargarla.
 
 
 ### Pre-requisitos 📋
@@ -15,6 +15,6 @@ _Necesitaras un ordenador decente (como los de la NASA) que funcione y mucha pac
 
 ### Instalación 🔧
 
-_Abre tu IDE y carga mi proyecto... En unos minutos tu disco duro estara formateado y vera que gracioso, sobre todo cuando veas que has perdido todas las fotos de cuando fuiste a Eurodisney!!!_
+_Abre tu IDE y carga mi proyecto... En unos minutos tu disco duro estara formateado y veras que gracioso, sobre todo cuando veas que has perdido todas las fotos de cuando fuiste a Eurodisney y te pusiste el traje de Blancanieves!!!_
 
 _Dí cómo será ese paso_
