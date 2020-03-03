@@ -2,4 +2,19 @@
 
 # La mejor calculadora del mercado!!!
 
-Este es el repositorio de las tareas de clase...
+## Comenzando 🚀
+
+_Puedes descargar mi calculadora para someterla a tus pruebas locas e intentar reventarla por todos lados... Hay gente que lo ha conseguido!!!_
+
+Mira **Deployment** para conocer como descargarla.
+
+
+### Pre-requisitos 📋
+
+_Necesitaras un ordenador decente (como los de la NASA) que funcione y mucha paciencia... Te dejo que hurges en el codigo, como hacen los niños pequeños con sus narices..._
+
+### Instalación 🔧
+
+_Abre tu IDE y carga mi proyecto... En unos minutos tu disco duro estara formateado y vera que gracioso, sobre todo cuando veas que has perdido todas las fotos de cuando fuiste a Eurodisney!!!_
+
+_Dí cómo será ese paso_
