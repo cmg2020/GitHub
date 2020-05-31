@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e763bab-ef9a-4782-86fd-82796585c035" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="271" />
+  </component>
+  <component name="ProjectId" id="1cfnaiREyxz6xuHHtHUJpmqfqez" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProgramasJava/TareaComplementaria" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CalculadoraFinal\src\main\java\com\calculadora\cristian" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in CalculadoraFinal (2)">
+    <configuration name="All in CalculadoraFinal (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculadoraFinal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CalculadoraFinal (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculadoraFinal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CalculadoraFinal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculadoraFinal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in CalculadoraFinal (2)" />
+        <item itemvalue="JUnit.All in CalculadoraFinal (1)" />
+        <item itemvalue="JUnit.All in CalculadoraFinal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e763bab-ef9a-4782-86fd-82796585c035" name="Default Changelist" comment="" />
+      <created>1590928580716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590928580716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590928830868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590928830868" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1590929705739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590929705739" />
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom" timestamp="1590957081555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590957081555" />
+    <state width="1877" height="372" key="GridCell.Tab.0.center" timestamp="1590957081554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590957081554" />
+    <state width="1877" height="372" key="GridCell.Tab.0.left" timestamp="1590957081554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590957081554" />
+    <state width="1877" height="372" key="GridCell.Tab.0.right" timestamp="1590957081554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590957081554" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1590928904060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590928904060" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1590929166642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590929166642" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CalculadoraFinal$All_in_CalculadoraFinal__2_.ic" NAME="All in CalculadoraFinal (2) Coverage Results" MODIFIED="1590957033650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
